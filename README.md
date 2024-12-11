@@ -7,7 +7,7 @@ The goal of this project was to increase the emotional value of art by optimizin
 https://youtu.be/XFa2MbDxFoA
 
 ### Structure 
-This algorithm was built using Pytorch and Qiskit. It utilizes a hybrid-structure with a QNN for the generator and a classical discriminator. There structure is generally:
+This algorithm was built using Pytorch and Qiskit. It utilizes a hybrid-structure with a QNN for the generator and a classical discriminator. Their structure is generally:
 
 ```python
 def build_quantum_generator():
